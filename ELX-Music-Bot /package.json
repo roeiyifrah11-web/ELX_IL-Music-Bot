@@ -1,0 +1,14 @@
+{
+  "name": "elx-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "discord-player": "^6.6.8",
+    "@discord-player/extractor": "^4.5.1",
+    "dotenv": "^16.4.5"
+  }
+}
